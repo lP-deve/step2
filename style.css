@@ -9,9 +9,7 @@
 
 }
 
-button,
-input,
-label {
+button, input, label {
     cursor: pointer
 }
 
